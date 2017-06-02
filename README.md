@@ -2,6 +2,6 @@
 
 Is Mardianto
 
-## PENDAHULAN
+## PENDAHULUAN
 
 ## LATAR BELAKANG
